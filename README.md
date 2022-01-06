@@ -1,4 +1,4 @@
-## Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also principal field service engineer and along 10 years had been working on many international projects for the "oil & gas" industry. But this is past...
+### Hi, I'm Marcelo Santos, founder and general manager of Chambertran Solutions, a technical services contractor company. At Chambertran I was also principal field service engineer and along 10 years worked on many international projects for the "oil & gas" industry. But this is past...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelobikerdev/)](https://www.linkedin.com/in/marcelobikerdev/)
 
@@ -15,7 +15,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 - [Courses](https://www.udemy.com)
 - [Courses](https://www.freecodecamp.org)
 
-## Developer Powers
+### Developer Powers
 ![image-20211113233356591](Image/image-20211113233356591.png)              ![image-20211113235059543](Image/image-20211113235059543.png)                ![image-20211113234134511](Image/image-20211113234134511.png)                ![image-20211113122919140](Image/image-20211113122919140.png)                ![image-20211113122258724](Image/image-20211113122258724.png)
 
 ![image-20211113125410000](Image/image-20211113125410000.png)              ![image-20211113125511569](Image/image-20211113125511569.png)               ![image-20211113125128447](Image/image-20211113125128447.png)              ![image-20211113125235400](Image/image-20211113125235400.png)               ![image-20211113125128474](Image/image-20211113125128474.png)
@@ -28,7 +28,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 
 ![image-20211113233023632](Image/image-20211113233023632.png)             ![image-20211113213905917](Image/image-20211113213905917.png)
 
-## Certificates
+### Certificates
 !ONGOING! Redesigning section as there are many certificates to be shown...
 
 
