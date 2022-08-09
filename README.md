@@ -4,9 +4,9 @@
 
 
 ### About me
-My connection with technology officially started when I was fourteen... that was about 1986. I was having industrial electricity classes at a professional school and taking internship in a "just started - fully automated" glass factory where I could write my firstIES lines of codes in BASIC language as well some batch files (DOS). However, software development  was not my main role and for longer than 30 years I was just running parallel to it, sometimes developing some lines of codes for industrial computers (PLC) at work or doing some stuff as hobby.
+My connection with technology officially started when I was fourteen... that was about 1986. I was having industrial electricity classes at a professional school and taking internship in a "fully automated glass factory" and, although I was there for electricity stuffs, there was where I could write my first lines of codes in BASIC language as well some batch files (DOS). However, software development was not my main role and for longer than 30 years I was just running parallel to it, sometimes developing some lines of codes for industrial computers (PLC) at work or doing some stuff as hobby.
 
-It was in 2020 when I was rethinking my life due to the COVID-19 that I decided to start over my professional career and shift at once to software development, then I registered myself on a fullstack JS/JAVA development bootcamp; since then, many hours of "study and code" have passing... Want to know more about my apprenticeship and hands on coding? Take a look at my repo or just contact me!
+It was in 2020 when I was rethinking my life due to the COVID-19 that I decided to start over my professional career and shift at once to software development, then I registered myself on a fullstack JS/JAVA development bootcamp; since then, many hours of "study and code" have gone... Want to know more about my apprenticeship and hands on coding? Take a look at my repo or just contact me!
 
 - [Courses](https://web.dio.me/) 
 - [Courses](https://www.academiadecodigo.org/)
