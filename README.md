@@ -40,7 +40,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 
 | |Statistics | |
 | :---: |  :---: |  :---: |
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Biker-Dev&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=8-marcelosantos-8&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
 
@@ -50,7 +50,7 @@ It was in 2020 when I was rethinking my life due to the COVID-19 that I decided 
 Work in constant evolution, visit us often!
 ```
 
-![Gits Snake Revenge Animation](https://github.com/Marcelo-Biker-Dev/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
+![Gits Snake Revenge Animation](https://github.com/8-marcelosantos-8/Marcelo-Biker-Dev/blob/main/github-contribution-grid-snake.svg)
 
 
 
